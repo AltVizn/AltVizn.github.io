@@ -1,0 +1,2 @@
+# ここに LevelPlay の管理画面からコピーした app-ads.txt の中身を貼り付けてください。
+# (LevelPlay 管理画面 → 対象アプリの設定 → app-ads.txt)
